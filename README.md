@@ -102,8 +102,35 @@ s.close()
 
 ## Output
 
+### ipconfig
 <img src="Screenshot 2026-03-13 203034.png" width="600">
+
+### ping
 <img src="ping.png" width="600">
+
+### netstat
+<img src="netstat.png" width="600">
+
+### tracert
+<img src="tracert.png" width="600">
+
+### nslookup
+<img src="nslookup.png" width="600">
+
+### nbstat
+<img src="nbstat.png" width="600">
+
+### arp
+<img src="arp.png" width="600">
+
+### hostname
+<img src="hostname.png" width="600">
+
+### getmac
+<img src="getmac.png" width="600">
+
+### systeminfo
+<img src="systeminfo.png" width="600">
 
 
 
