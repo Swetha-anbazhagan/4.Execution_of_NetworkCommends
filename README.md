@@ -102,7 +102,7 @@ s.close()
 
 ## Output
 
-<img src="Screenshot 2026-03-13 203034Screenshot 2026-03-13 203034" width="600">
+<img src="Screenshot 2026-03-13 203034.png" width="600">
 
 
 
