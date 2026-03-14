@@ -117,8 +117,8 @@ s.close()
 ### nslookup
 <img src="nslookup.png" width="600">
 
-### nbstat
-<img src="nbstat.png" width="600">
+### nbtstat
+<img src="nbtstat.png" width="600">
 
 ### arp
 <img src="arp.png" width="600">
